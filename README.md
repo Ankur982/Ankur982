@@ -32,3 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur982&show_icons=true&locale=en" alt="ankur982" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur982&" alt="ankur982" /></p>
+
+
+<h3 align="left">✍️ Random Dev Quote:</h3>
+<p><img align="center" src="https://camo.githubusercontent.com/525f7d04bfdcdb54e05bcd55b1422f9ec1bf9fef1f580a668748c499ea28f8cc/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c26616c69676e3d63656e746572" alt="ankur982" /></p>
+

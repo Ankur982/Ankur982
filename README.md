@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript React**
+- 🌱 I’m currently learning **NEM Advance**
 
 - 👨‍💻 All of my projects are available at [https://ankur982.github.io/](https://ankur982.github.io/)
 
@@ -29,11 +29,11 @@
 
 
 ## Github Overview:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur982&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ankur982" /></p>
+<p><img align="center" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur982&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ankur982" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankur982&show_icons=true&locale=en&theme=tokyonight" alt="ankur982" /></p>
+<p>&nbsp;<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=ankur982&show_icons=true&locale=en&theme=tokyonight" alt="ankur982" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur982&&show_icons=true&locale=en&theme=tokyonight" alt="ankur982" /></p>
+<p><img align="center" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur982&&show_icons=true&locale=en&theme=tokyonight" alt="ankur982" /></p>
 
 
 ## ✍️ Random Dev Quote:

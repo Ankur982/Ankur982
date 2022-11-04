@@ -31,7 +31,7 @@
 ## Github Overview:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur982&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ankur982" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur982&show_icons=true&locale=en&theme=tokyonight" alt="ankur982" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankur982&show_icons=true&locale=en&theme=tokyonight" alt="ankur982" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur982&&show_icons=true&locale=en&theme=tokyonight" alt="ankur982" /></p>
 

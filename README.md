@@ -1,7 +1,7 @@
 [![MasterHead](https://krify.co/wp-content/uploads/2020/10/MERNsiderback.png)](https://rishavchanda.io)
 ## <h1 align="center">Hi 👋, I'm Ankur Singh</h1>
 <h3 align="center">An aspiring full stack web-developer with a specialization in MERN stack with a passion for learning with endless supply of curiosity. I believe that any problem can solve by challenging yourself...</h3>
-<img align="right" alt="Coding" width="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur982&label=Profile%20views&color=0e75b6&style=flat" alt="ankur982" /> </p>
 

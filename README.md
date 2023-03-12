@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **I was 17 when I started teaching as home tutor of the students of class 10th-12th.Which helped me develop Problem Solving, Leadership, and People skills.**
 ## 
-## Connect with me:
-## <p align="left">
+## Connect with me: 
+<p align="left">
 <a href="https://linkedin.com/in/ankur-singh2698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-singh2698" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ankur982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ankur982" height="30" width="40" /></a>
 <a href="https://instagram.com/ankur2698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankur2698" height="30" width="40" /></a>
